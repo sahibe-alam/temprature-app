@@ -1,0 +1,76 @@
+body {
+    background:   #dae5f0;
+    background-image: url("/src/photo-1513002749550-c59d786b8e6c.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    background-size: cover;
+  }
+
+  
+
+.box{
+  
+    width: 300px;
+    height: 400px;
+    text-align: center;
+  margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+  
+  border-radius: 20px;
+
+
+
+  box-shadow: inset 6px 6px 10px 5px rgba(116,150,179,0.32), inset -4px -4px 6px 5px #FFFFFF;
+  
+ 
+  display: block;
+  text-transform: capitalize;
+
+  
+}
+
+.inputFeild{
+    width: 80%;
+  margin-top: 20px;
+ padding: 10px;
+    border-radius: 30px;
+    outline: none;
+    
+   
+}
+
+
+.layer {
+  background-color: #dae5f062;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+ 
+ 
+}
+
+@media only screen and (max-width: 600px) {
+  body .box {
+    margin-left: auto;
+    margin-right: auto;
+
+  
+  }
+  body{
+    padding-bottom: 170px;
+  }
+}
+
+
+
+
+  
+.sahibe{
+    text-align: center;
+    align-items: center;
+}
+   
