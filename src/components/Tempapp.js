@@ -49,7 +49,7 @@ const Tempapp = () => {
 
                 </div>
             </div>
-            <h5 className="sahibe">BY Sahibe Alam </h5>
+            <h5 className="sahibe">By Sahibe Alam </h5>
             </div>
         
         </>
