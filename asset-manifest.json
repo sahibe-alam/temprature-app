@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/temprature-app/static/css/main.35c569ce.chunk.css",
+    "main.js": "/temprature-app/static/js/main.fb4f4cc9.chunk.js",
+    "main.js.map": "/temprature-app/static/js/main.fb4f4cc9.chunk.js.map",
+    "runtime-main.js": "/temprature-app/static/js/runtime-main.c3824dee.js",
+    "runtime-main.js.map": "/temprature-app/static/js/runtime-main.c3824dee.js.map",
+    "static/js/2.34868a35.chunk.js": "/temprature-app/static/js/2.34868a35.chunk.js",
+    "static/js/2.34868a35.chunk.js.map": "/temprature-app/static/js/2.34868a35.chunk.js.map",
+    "static/js/3.5aa5049d.chunk.js": "/temprature-app/static/js/3.5aa5049d.chunk.js",
+    "static/js/3.5aa5049d.chunk.js.map": "/temprature-app/static/js/3.5aa5049d.chunk.js.map",
+    "index.html": "/temprature-app/index.html",
+    "static/css/main.35c569ce.chunk.css.map": "/temprature-app/static/css/main.35c569ce.chunk.css.map",
+    "static/js/2.34868a35.chunk.js.LICENSE.txt": "/temprature-app/static/js/2.34868a35.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/temprature-app/static/media/photo-1513002749550-c59d786b8e6c.e5b406d9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3824dee.js",
+    "static/js/2.34868a35.chunk.js",
+    "static/css/main.35c569ce.chunk.css",
+    "static/js/main.fb4f4cc9.chunk.js"
+  ]
+}
